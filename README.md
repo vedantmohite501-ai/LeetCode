@@ -27,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0509-fibonacci-number) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedantmohite501-ai/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
