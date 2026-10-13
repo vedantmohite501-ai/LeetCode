@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0020-valid-parentheses) |
 | [0412-fizz-buzz](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedantmohite501-ai/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
