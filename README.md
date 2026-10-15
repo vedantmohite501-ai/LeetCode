@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0088-merge-sorted-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/vedantmohite501-ai/LeetCode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 ## Stack
 |  |
@@ -40,4 +41,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0020-valid-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0088-merge-sorted-array) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
