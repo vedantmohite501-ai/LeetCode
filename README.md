@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0509-fibonacci-number) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/vedantmohite501-ai/LeetCode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0035-search-insert-position) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/vedantmohite501-ai/LeetCode/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
